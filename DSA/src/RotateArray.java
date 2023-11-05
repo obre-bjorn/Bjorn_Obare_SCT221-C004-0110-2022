@@ -2,8 +2,6 @@ import java.util.Arrays;
 
 public class RotateArray {
  
-
-
     
     
     public static void shiftAndPush(int[] array){
