@@ -2,7 +2,7 @@ import java.util.Stack;
 
 public class TwoStacks {
 
-     private Stack<Integer> stack1 = new Stack<>();
+    private Stack<Integer> stack1 = new Stack<>();
     private Stack<Integer> stack2 = new Stack<>();
 
     // Enqueue operation: Add a new element to the end of the queue
